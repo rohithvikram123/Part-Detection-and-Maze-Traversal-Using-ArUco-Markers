@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/turtlebot3_gazebo/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/ros2_aruco/lib/python3.10/site-packages",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/mage_msgs/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/turtlebot3_gazebo/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/ros2_aruco/lib/python3.10/site-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/mage_msgs/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/waypoints/lib/python3.10/site-packages",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/mapping/local/lib/python3.10/dist-packages",
+        "/home/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/turtlebot3_gazebo/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/ros2_aruco/lib/python3.10/site-packages",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/mage_msgs/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/turtlebot3_gazebo/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/ros2_aruco/lib/python3.10/site-packages",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/mage_msgs/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/waypoints/lib/python3.10/site-packages",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer/local/lib/python3.10/dist-packages",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/mapping/local/lib/python3.10/dist-packages",
+        "/home/microros_ws/install/micro_ros_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

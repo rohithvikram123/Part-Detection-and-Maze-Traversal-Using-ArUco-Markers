@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/turtlebot3_sensors/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/turtlebot3_gazebo/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/turtlebot3_fake_node/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/maze_solver/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/ros2_aruco_interfaces/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/install/mage_msgs/include/**",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/turtlebot3_sensors/include/**",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/maze_solver/include/**",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/ros2_aruco_interfaces/include/**",
+        "/home/rohithvikram/C++learning/rwa3_ws/install/mage_msgs/include/**",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/spatio_temporal_voxel_layer/include/**",
+        "/home/rohithvikram/voidwalking/ros2_ws/install/mapping/include/**",
+        "/home/microros_ws/install/micro_ros_agent/include/**",
+        "/home/microros_ws/install/micro_ros_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/src/maze_solver/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/src/turtlebot3_sensors/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/rohithvikram/C++learning/Part-Detection-and-Maze-Traversal-Using-ArUco-Markers/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
