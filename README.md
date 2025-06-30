@@ -8,6 +8,18 @@ Simultaneously, the logical camera detects parts floating in the environment. Th
 
 Through continuous processing of ArUco marker detections and logical camera outputs, the TurtleBot is capable of localizing itself within the maze, detecting floating parts, and planning its movements accordingly.
 
+## Start the Simulation
+### Place the package into your ROS2 workspace
+
+### Build the package using:
+colcon build
+
+### Source the workspace:
+source install/setup.bash
+
+### Launch the package:
+ros2 launch turtlebot3_gazebo maze.launch.py
+
 ## Results
 ### TurtleBot Maze Navigation and Floating Part Detection
 ![Watch the demo](results/maze_navigation.gif)
